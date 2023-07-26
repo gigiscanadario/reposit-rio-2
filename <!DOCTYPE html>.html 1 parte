@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body background=" " width= 1000% bgproperties="fixed">
+    <table>
+        <tr>
+            <td width= "50%" valing= "top">
+                <h1> Escola de Programação </h1>
+                <img src= "imagem.png" with= "80%">
+            </td>
+            <td width="50%" valing="top"> 
+                <ul> 
+                    <h1> Cursos 
+                        <li> Análise e Desenvolvimento de Sistema </li>
+                        <li> Engenharia de Software </li>
+                        <li> Ciências da Computação </li>
+                        <li> Engenharia da Computação </li>
+</body>
+</html>
